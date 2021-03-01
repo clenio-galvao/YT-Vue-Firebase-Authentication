@@ -4,7 +4,7 @@
     color="indigo"
     dark
   >
-    <v-toolbar-title class="pl-3">Vue Auth Example</v-toolbar-title>
+    <v-toolbar-title class="pl-3">Desafio Connect Nuvem</v-toolbar-title>
     
     <v-spacer />
 

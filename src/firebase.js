@@ -3,12 +3,14 @@ import '@firebase/auth';
 import '@firebase/firestore';
 
 firebase.initializeApp({
-    apiKey: "AIzaSyDDldt5sPlHYsZp6gI_sT3vrPjkihEbT8U",
-    authDomain: "vacadquiz.firebaseapp.com",
-    projectId: "vacadquiz",
-    storageBucket: "vacadquiz.appspot.com",
-    messagingSenderId: "21426078384",
-    appId: "1:21426078384:web:785faa1efd683afc2c7175",
+    apiKey: "AIzaSyBmDYldi1QZqj8mtx8gAcBx9jSdmqNeduk",
+    authDomain: "desafio-conectanuvem.firebaseapp.com",
+    databaseURL: "https://desafio-conectanuvem-default-rtdb.firebaseio.com",
+    projectId: "desafio-conectanuvem",
+    storageBucket: "desafio-conectanuvem.appspot.com",
+    messagingSenderId: "355107773529",
+    appId: "1:355107773529:web:26015d826399359d93e548",
+    measurementId: "G-FTLRLTCJTK"
 });
 
 export default firebase;

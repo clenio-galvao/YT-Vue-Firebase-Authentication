@@ -24,7 +24,7 @@
     computed: {
       ...mapGetters('user', {
         userProfile: 'userProfile',
-        loggedIn: 'loggedIn'
+        loggedIn: 'loggedIn',
       })
     },
     methods: {
